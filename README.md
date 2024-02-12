@@ -1,6 +1,6 @@
 ### 👋
 
-#### I'm a Golang developer and host [🧪 Expectations Library "Be"](https://github.com/expectto/be) 
+#### I'm a Golang developer and host [🧪 Assertions Library "Be"](https://github.com/expectto/be) 
 
 <!---
 expectto/expectto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
